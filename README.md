@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhroTi
 - 👀 I’m interested in ...crypto
-- 🌱 I’m currently learning ...blockchain
+- 🌱 I’m currently learning ...blockchain newb
 - 💞️ I’m looking to collaborate on ...my own ADA pool
 - 📫 How to reach me ...hashballs@gmail.com
 
